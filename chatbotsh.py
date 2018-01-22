@@ -4,7 +4,7 @@ import paho.mqtt.publish as publish
 import paho.mqtt.client as mqtt
 import thread
 
-ACCESS_TOKEN = "EAAE4ZATXWProBAKINIJ8bScZBj0LKYJIOZCQYIGRfZAA8ZChQLU5iPXnngol5ztBDwmJpmgK2GXkx147gBMKXx72GJvjmjeZCppJiJ0AXtNLdS1Lc2aC315tlJqo9Yv4ikoG4bWiFKPM5JlTd926TlIZAZAHZBs7BaeptkKPUP8gk4AZDZD";
+ACCESS_TOKEN = "your_fb_access token_here";
 
 history = dict()
 
